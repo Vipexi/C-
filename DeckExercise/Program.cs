@@ -6,7 +6,7 @@ namespace DeckExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Card c1 = new Card();
         }
     }
 }
