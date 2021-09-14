@@ -28,9 +28,6 @@ namespace InterfaceInventory
             inventory[0].Use();
             inventory[1].Use();
 
-            
-
-
             Console.WriteLine(h1.HPGain);
             
         }
